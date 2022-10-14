@@ -1,0 +1,104 @@
+{
+    "cases":  [
+        {
+            "sl_account_name": "Arizona Cardinals",
+            "id": 163776,
+            "sl_case_id": 163776,
+            "sl_status": "Closed",
+            "sl_priority": "Medium",
+            "sl_sentiment": "positive",
+            "sl_sentiment_text": "helpful",
+            "sl_subject": "Thank you for giving informative"
+        },
+        {
+            "sl_account_name": "Minnesota Vikings",
+            "id": 164433,
+            "sl_case_id": 164433,
+            "sl_status": "New",
+            "sl_priority": "High",
+            "sl_sentiment": "needAttention",
+            "sl_sentiment_text": "Production Issue",
+            "sl_subject": "Customer is worried as it is effecting his production users"
+        },
+        {
+            "sl_account_name": "Los Angeles Rams",
+            "id": 163702,
+            "sl_case_id": 163702,
+            "sl_status": "Closed",
+            "sl_priority": "High",
+            "sl_sentiment": "negative",
+            "sl_sentiment_text": "negative",
+            "sl_subject": "I am not satisfied with this cannot be done as an explanation."
+        },
+        {
+            "sl_account_name": "Baltimore Ravens",
+            "id": 164354,
+            "sl_case_id": 164354,
+            "sl_status": "Escalated",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "moderate",
+            "sl_sentiment_text": "Super frustrating!",
+            "sl_subject": "That was really helpful, thanks"
+        },
+        {
+            "sl_account_name": "Jacksonville Jaguars",
+            "id": 164180,
+            "sl_case_id": 164180,
+            "sl_status": "Researching",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "helpful",
+            "sl_sentiment_text": "helpful",
+            "sl_subject": "Thanks for all this information up front, it is extremely helpful"
+        },
+        {
+            "sl_account_name": "Dallas Cowboys",
+            "id": 163404,
+            "sl_case_id": 163404,
+            "sl_status": "Open",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "helpful",
+            "sl_sentiment_text": "helpful",
+            "sl_subject": "Thanks for all this information up front, it is extremely helpful"
+        },
+        {
+            "sl_account_name": "Kansas City Chiefs",
+            "id": 163700,
+            "sl_case_id": 163700,
+            "sl_status": "Closed",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "negative",
+            "sl_sentiment_text": "negative",
+            "sl_subject": "I\"m also escalating this case because this turnaround time in unacceptable."
+        },
+        {
+            "sl_account_name": "Seattle Seahawks",
+            "id": 164573,
+            "sl_case_id": 164573,
+            "sl_status": "Pending",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "negative",
+            "sl_sentiment_text": "negative",
+            "sl_subject": "Not happy with your support."
+        },
+        {
+            "sl_account_name": "New Orleans Saints",
+            "id": 164566,
+            "sl_case_id": 164566,
+            "sl_status": "New",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "needAttention",
+            "sl_sentiment_text": "Production Issue",
+            "sl_subject": "Customer is worried as it is effecting his production users"
+        },
+        {
+            "sl_account_name": "Jacksonville Jaquars",
+            "id": 164187,
+            "sl_case_id": 164566,
+            "sl_status": "New",
+            "sl_priority": "Moderate",
+            "sl_sentiment": "needAttension",
+            "sl_sentiment_text": "Production Issue",
+            "sl_subject": "Customer is worried as it is effecting his production users"
+        }
+    ]
+}
