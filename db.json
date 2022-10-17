@@ -10,7 +10,8 @@
           "sl_sentiment_text": "helpful",
           "sl_subject": "Thank you for giving informative",
           "sl_requester_name": "Broke Coyle",
-          "sl_source": "twitter"
+          "sl_source": "twitter",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Minnesota Vikings",
@@ -22,7 +23,9 @@
           "sl_sentiment_text": "Production Issue",
           "sl_subject": "Customer is worried as it is effecting his production users",
           "sl_requester_name": "Bam Bradley",
-          "sl_source": "twitter"
+          "sl_source": "twitter",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
+
         },
         {
           "sl_account_name": "Los Angeles Rams",
@@ -34,7 +37,8 @@
           "sl_sentiment_text": "negative",
           "sl_subject": "I am not satisfied with this cannot be done as an explanation.",
           "sl_requester_name": "Brooks Reed",
-          "sl_source": "twitter"
+          "sl_source": "twitter",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Baltimore Ravens",
@@ -46,7 +50,9 @@
           "sl_sentiment_text": "Super frustrating!",
           "sl_subject": "That was really helpful, thanks",
           "sl_requester_name": "Kawann Short",
-          "sl_source": "whatsapp"
+          "sl_source": "whatsapp",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
+
         },
         {
           "sl_account_name": "Jacksonville Jaguars",
@@ -58,7 +64,8 @@
           "sl_sentiment_text": "helpful",
           "sl_subject": "Thanks for all this information up front, it is extremely helpful",
           "sl_requester_name": "Micheel Wilhoite",
-          "sl_source": "whatsapp"
+          "sl_source": "whatsapp",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Dallas Cowboys",
@@ -70,7 +77,8 @@
           "sl_sentiment_text": "helpful",
           "sl_subject": "Thanks for all this information up front, it is extremely helpful",
           "sl_requester_name": "Michael Burton",
-          "sl_source": "linkedin"
+          "sl_source": "linkedin",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Kansas City Chiefs",
@@ -82,7 +90,8 @@
           "sl_sentiment_text": "negative",
           "sl_subject": "I\"m also escalating this case because this turnaround time in unacceptable.",
           "sl_requester_name": "Dwight Freeney",
-          "sl_source": "whatsapp"
+          "sl_source": "whatsapp",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Seattle Seahawks",
@@ -94,7 +103,8 @@
           "sl_sentiment_text": "negative",
           "sl_subject": "Not happy with your support.",
           "sl_requester_name": "Justin Drescher",
-          "sl_source": "linkedin"
+          "sl_source": "linkedin",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "New Orleans Saints",
@@ -106,7 +116,8 @@
           "sl_sentiment_text": "Production Issue",
           "sl_subject": "Customer is worried as it is effecting his production users",
           "sl_requester_name": "Steven Johnson",
-          "sl_source": "twitter"
+          "sl_source": "twitter",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         },
         {
           "sl_account_name": "Jacksonville Jaquars",
@@ -118,7 +129,8 @@
           "sl_sentiment_text": "Production Issue",
           "sl_subject": "Customer is worried as it is effecting his production users",
           "sl_requester_name": "Tyler Shatley",
-          "sl_source": "twitter"
+          "sl_source": "twitter",
+          "sl_created_at": "2022-10-05T20:59:30+00:00"
         }
       ]
 }
